@@ -1,5 +1,5 @@
 variable "project" {
-  default     = "devops22062024"
+  default     = "GCP Mentoring Project"
   description = "The project ID"
 }
 
