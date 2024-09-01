@@ -1,5 +1,5 @@
 variable "project" {
-  default     = "GCP Mentoring Project"
+  default     = "My First Project"
   description = "The project ID"
 }
 
